@@ -1,0 +1,35 @@
+.login {
+    min-height: 100vh; /* Cambia la altura mínima a automática */
+}
+
+ 
+
+.bg-image {
+    background-image: url('../assets/img/ai\ \(2\).png');
+    background-size: 70% 70%;/* Ajusta el tamaño de la imagen para que quepa dentro del contenedor */
+    background-position: center;
+    border-top-left-radius: 10px; /* Redondea la esquina superior izquierda */
+    border-top-right-radius: 20px; /* Redondea la esquina superior derecha */
+    border-bottom-left-radius: 30px; /* Redondea la esquina inferior izquierda */
+    border-bottom-right-radius: 40px; 
+    background-repeat: no-repeat; /* Evita la repetición de la imagen de fondo */
+}
+
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 1.1rem; 
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1.5rem; 
+    background-color: #ffc801; 
+    border: none; 
+    border-radius: 5px; 
+    transition: background-color 0.3s ease; 
+}
+
+.btn-login:hover {
+    background-color: #ffbf00; 
+}

@@ -1,0 +1,2 @@
+127.0.0.1 - - [06/Dec/2023:06:38:16 -0600] "PUT /SicefaProyecto/api/proveedor/3/estatusFx HTTP/1.1" 200 78
+127.0.0.1 - - [06/Dec/2023:06:38:16 -0600] "GET /SicefaProyecto/api/proveedor/listarProveedores HTTP/1.1" 200 6225
